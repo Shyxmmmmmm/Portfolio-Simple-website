@@ -17,7 +17,7 @@ Technologies Used:
 - Google Fonts
 
 Project Link:
-https://github.com/Shyxmmmmmm/pattern
+(https://shyxmmmmmm.github.io/Portfolio-Simple-website/)
 
 Author:
 Shyam Kumar A S
